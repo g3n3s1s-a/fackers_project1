@@ -1,0 +1,47 @@
+# Claude Debussy — Clair de Lune
+T=120
+B=DQ
+I=1
+SUS=ON
+OVL=30
+
+# === Intro arpeggio bed (4 bars) ===
+Db3 e Ab3 e Db4 e |
+Ab2 e Eb3 e Ab3 e |
+Db3 e Ab3 e Db4 e |
+Ab2 e Eb3 e Ab3 e |
+
+# === Theme A (8 bars): melody folded into first eighth of each triplet ===
+# Phrase 1
+[Db3 Ab3 Db4] e  F4 e  Ab4 e |
+[Ab2 Eb3 Eb4] e  F4 e  Gb4 e |
+[Db3 Ab3 F4] e  Eb4 e  Db4 e |
+[Gb3 Db4 Eb4] e  F4 e  Gb4 e |
+
+# Phrase 2 (sequence up, then gentle fall)
+[Db3 Ab3 Ab4] e  Bb4 e  C5 e |
+[Ab2 Eb3 Bb4] e  C5 e   Db5 e |
+[Db3 Ab3 F4] e  Eb4 e   Db4 e |
+[Gb3 Db4 Eb4] e  F4 e   Gb4 e |
+
+# === Bridge-like shimmer (4 bars): higher color tones while bed rolls ===
+Db3 e Ab3 e Db4 e |
+Gb3 e Db4 e Gb4 e |
+Ab2 e Eb3 e Ab3 e |
+Db3 e Ab3 e Db4 e |
+
+# === Theme A’ (8 bars): melody returns a touch higher, resolves softly ===
+[Db3 Ab3 Eb4] e  F4 e   Ab4 e |
+[Ab2 Eb3 Gb4] e  F4 e   Eb4 e |
+[Db3 Ab3 F4]  e  Eb4 e  Db4 e |
+[Gb3 Db4 Eb4] e  F4 e   Gb4 e |
+[Db3 Ab3 Ab4] e  Bb4 e  C5 e |
+[Ab2 Eb3 Bb4] e  C5 e   Db5 e |
+[Db3 Ab3 F4]  e  Eb4 e  Db4 e |
+[Gb3 Db4 Eb4] e  F4 e   Db4 e |
+
+# === Gentle cadence (2 bars) ===
+[Db3 Ab3 Db4] e  [Ab2 Eb3 Ab3] e  [Db3 Ab3 Db4] e |
+[Gb2 Db3 Gb3] e  [Db3 Ab3 Db4] e  [Db3 F3 Ab3] e |
+
+R w
